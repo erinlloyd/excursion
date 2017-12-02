@@ -47,3 +47,8 @@ a.links{
     max-width: 100%;
     height: auto;
 }
+
+p.footer{
+    text-align: right;
+    color:gray;
+}
